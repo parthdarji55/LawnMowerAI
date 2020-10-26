@@ -1,3 +1,13 @@
+This is a passions project where a bot/ AI learns through multiple simulations to find the best way to navigate through given obstacles.
+This project uses a mesh of neural networks to find which is the best and optimal choice to proceed with the learning
+It is like how evolution works, we choose the best candidates to continue.
+
+The result:
+It only after 30 generations or so did we see a real solutions to the given obstacle.
+when the obstacle was not well defined it took longer and was not a good solution.
+It did however do quite well when there was a well defined obstacle with strait edges.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
